@@ -1,88 +1,102 @@
-# Hi there, I'm Toseef Ajmal 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Toseef%20Ajmal&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## 💻 Frontend & Web Developer
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=FF0000&vCenter=true&width=700&lines=Hi+👋+I'm+Toseef+Ajmal;Frontend+Web+Developer;React+Developer;Laravel+Developer;Tailwind+CSS+Developer;Always+Learning+New+Things" />
+</h1>
 
-I'm a passionate web developer from Pakistan who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and turning ideas into reality through clean and efficient code.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=toseefajmal&label=Profile+Views&color=red&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/toseefajmal?style=for-the-badge&color=red"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Laravel & Advanced React**
-- 💻 Building responsive websites and web applications
-- 🎯 Interested in Frontend & Full Stack Development
-- 📚 Always improving my programming skills
-- 🤝 Open to freelance opportunities and collaborations
+- 💻 Frontend & Web Developer
+- 🌱 Learning Laravel & Advanced React
+- 🎯 Passionate about UI/UX
+- 🚀 Building Responsive Websites
+- 🤝 Open to Freelance Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- JavaScript (ES6+)
-- React.js
-
-### Backend
-- PHP
-- Laravel
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- npm
-- Vite
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite,php,laravel,mysql,git,github,vscode,npm" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌍 Global Minds Consultants
-A modern study abroad consultancy website built with React and Tailwind CSS.
-
-### 🛋️ Sofa Shop Management System
-Inventory management system developed using Laravel and MySQL.
-
-### 🏥 Hospital Management System
-A complete university project for managing patients, doctors, and appointments.
-
-### 🗳️ University Voting System
-Online voting platform for university elections.
+- 🌍 Global Minds Consultants
+- 🛋️ Sofa Shop Management System
+- 🏥 Hospital Management System
+- 🗳️ University Voting System
 
 ---
 
 ## 📊 GitHub Stats
 
-![Toseef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toseefajmal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toseefajmal&layout=compact&theme=tokyonight)
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=toseefajmal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseefajmal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=toseefajmal&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=toseefajmal&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-- GitHub: https://github.com/toseefajmal
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your email here)*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=toseefajmal&theme=algolia&no-frame=true&column=4"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toseefajmal&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/toseefajmal">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+</p>
 
 ---
 
 ## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"Code. Learn. Build. Repeat." 🚀**
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+</p>
