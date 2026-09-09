@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Front-End+%26+Full-Stack+Developer;React.js+%7C+Laravel+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Turning+Ideas+Into+Interactive+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Toseef+Ajmal+%F0%9F%91%8B;Front-End+%26+Full-Stack+Developer;React.js+Developer+%E2%9A%9B%EF%B8%8F;Laravel+%26+PHP+Developer+%F0%9F%94%A7;Tailwind+CSS+Developer+%F0%9F%8E%A8;Building+Modern+Web+Applications+%F0%9F%9A%80" />
 
 <br/>
 
-<a href="https://github.com/toseefajmal">
-  <img src="https://komarev.com/ghpvc/?username=toseefajmal&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-</a>
+### Front-End & Full-Stack Web Developer | React.js · Laravel · Tailwind CSS
 
-<a href="https://github.com/toseefajmal?tab=followers">
-  <img src="https://img.shields.io/github/followers/toseefajmal?label=Followers&style=for-the-badge&color=181717" />
-</a>
+<p>
+  <a href="https://github.com/toseefajmal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=toseefajmal&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
@@ -18,11 +20,13 @@
 
 # 👨‍💻 About Me
 
-I'm a **Front-End & Full-Stack Web Developer** passionate about creating modern, responsive and user-friendly web applications.
+I'm a **Front-End & Full-Stack Web Developer** passionate about creating modern, responsive, and user-friendly web applications.
 
-I mainly work with **React.js, JavaScript, Tailwind CSS, Laravel, PHP, MySQL and REST APIs**.
+I mainly work with **React.js, JavaScript, Tailwind CSS, Laravel, PHP, MySQL, and REST APIs**. I enjoy transforming ideas into functional digital experiences using clean code, reusable components, and modern development practices.
 
-I enjoy transforming ideas into functional digital experiences using:
+I've worked on projects across multiple domains including **fitness, education, e-commerce, food, and community platforms**.
+
+My development approach focuses on:
 
 * ⚛️ Modern React architecture
 * 🎨 Clean and responsive UI/UX
@@ -30,9 +34,8 @@ I enjoy transforming ideas into functional digital experiences using:
 * 🧩 Reusable components
 * 🚀 Performance-focused development
 * 📱 Mobile-first responsive layouts
-* 🎬 Smooth UI animations
-
-I've built projects across multiple domains including **fitness, education, e-commerce, food and community platforms**.
+* 🎬 Smooth and interactive animations
+* 🗄️ Database-driven applications
 
 ### 🚀 Open To
 
@@ -40,7 +43,19 @@ I've built projects across multiple domains including **fitness, education, e-co
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Core Specialization
+
+* **React.js Development** — reusable components, hooks, routing and modern frontend architecture
+* **Modern UI Development** — Tailwind CSS, Bootstrap and responsive layouts
+* **Full-Stack Development** — Laravel, PHP, MySQL and REST APIs
+* **E-Commerce Applications** — products, APIs, product details and shopping interfaces
+* **Education Platforms** — courses, instructors, categories and learning interfaces
+* **API-Driven Applications** — fetching and displaying dynamic data
+* **Interactive UI** — Framer Motion animations and modern user experiences
+
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
@@ -48,11 +63,15 @@ I've built projects across multiple domains including **fitness, education, e-co
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
+<br/><br/>
+
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 
-### Tools & Technologies
+<br/><br/>
+
+### Tools & Development
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
 
@@ -60,18 +79,18 @@ I've built projects across multiple domains including **fitness, education, e-co
 
 ---
 
-# ⚡ Core Skills
+# ⚡ Skills
 
-| Area      | Technologies                        |
-| --------- | ----------------------------------- |
-| Frontend  | React.js, JavaScript, HTML5, CSS3   |
-| Styling   | Tailwind CSS, Bootstrap             |
-| Animation | Framer Motion                       |
-| Routing   | React Router                        |
-| Backend   | PHP, Laravel                        |
-| Database  | MySQL                               |
-| APIs      | REST APIs                           |
-| Tools     | Git, GitHub, VS Code, Postman, Vite |
+| Category      | Technologies                        |
+| ------------- | ----------------------------------- |
+| **Languages** | JavaScript, PHP, HTML5, CSS3        |
+| **Frontend**  | React.js, Tailwind CSS, Bootstrap   |
+| **Routing**   | React Router                        |
+| **Animation** | Framer Motion                       |
+| **Backend**   | PHP, Laravel                        |
+| **Database**  | MySQL                               |
+| **API**       | REST APIs                           |
+| **Tools**     | Git, GitHub, VS Code, Postman, Vite |
 
 ---
 
@@ -79,19 +98,20 @@ I've built projects across multiple domains including **fitness, education, e-co
 
 ## 🏋️ Gym Website
 
-A modern and responsive fitness website designed with an attractive interface for presenting gym services, programs and information.
+A modern and responsive fitness website designed with a clean and engaging interface for presenting gym services, programs and information.
 
-**Tech Stack**
+### Tech Stack
 
 `React.js` `Tailwind CSS` `JavaScript`
 
-**Highlights**
+### Highlights
 
-* Responsive fitness UI
-* Modern landing sections
-* Reusable React components
-* Tailwind CSS styling
-* Mobile-friendly design
+* 🏋️ Fitness-focused UI
+* 📱 Fully responsive design
+* 🧩 Reusable React components
+* 🎨 Modern Tailwind CSS styling
+* 📐 Structured service sections
+* 💻 Mobile-friendly layouts
 
 🔗 **[Live Demo](https://gym-website-tan-tau.vercel.app/)**
 
@@ -99,21 +119,22 @@ A modern and responsive fitness website designed with an attractive interface fo
 
 ## 🎓 EduSphere — Learning Management System
 
-A modern LMS frontend designed for an online education experience with courses, instructors, categories, testimonials and responsive layouts.
+A modern Learning Management System frontend featuring courses, instructors, categories, testimonials and responsive learning interfaces.
 
-**Tech Stack**
+### Tech Stack
 
 `React.js` `Tailwind CSS` `React Router` `Framer Motion`
 
-**Highlights**
+### Highlights
 
-* Course listing system
-* Instructor sections
-* Course categories
-* Responsive layouts
-* React Router navigation
-* Framer Motion animations
-* Reusable components
+* 🎓 Course listing system
+* 👨‍🏫 Instructor sections
+* 📚 Course categories
+* ⭐ Testimonials
+* 🧭 React Router navigation
+* 🎬 Framer Motion animations
+* 🧩 Reusable course components
+* 📱 Responsive layouts
 
 🔗 **[Live Demo](https://edu-sphere-4jinci9a6-toseefajmal07-3946s-projects.vercel.app/)**
 
@@ -121,20 +142,21 @@ A modern LMS frontend designed for an online education experience with courses, 
 
 ## 🛒 Vihla Commerce — E-Commerce Platform
 
-A modern e-commerce application featuring dynamic products, API integration, product cards and individual product detail pages.
+A modern e-commerce application featuring dynamic products, API integration, reusable product cards and individual product detail pages.
 
-**Tech Stack**
+### Tech Stack
 
 `React.js` `Tailwind CSS` `REST API` `React Router`
 
-**Highlights**
+### Highlights
 
-* REST API integration
-* Dynamic product rendering
-* Reusable product cards
-* Product detail pages
-* Dynamic routing
-* Responsive shopping interface
+* 🛍️ Product listing system
+* 🔌 REST API integration
+* 🧩 Reusable product cards
+* 📦 Dynamic product rendering
+* 🔎 Product detail pages
+* 🧭 Dynamic routing
+* 📱 Responsive shopping interface
 
 🔗 **[Live Demo](https://vihla-commerce.vercel.app/)**
 
@@ -142,21 +164,21 @@ A modern e-commerce application featuring dynamic products, API integration, pro
 
 ## 🍔 FoodMart — Food & Community Platform
 
-A food and community-based React application with product/recipe functionality and a submission system.
+A food and community-based React application featuring product and recipe functionality with a user submission system.
 
-**Tech Stack**
+### Tech Stack
 
 `React.js` `Tailwind CSS` `JavaScript` `LocalStorage`
 
-**Highlights**
+### Highlights
 
-* Product functionality
-* Recipe functionality
-* Submission system
-* Form handling
-* LocalStorage persistence
-* Responsive UI
-* Reusable components
+* 🍔 Food-related functionality
+* 📝 Product and recipe submissions
+* 📋 Submission management
+* 💾 LocalStorage persistence
+* 🧩 Reusable React components
+* 📱 Responsive UI
+* 🎨 Modern interface
 
 🔗 **[Live Demo](https://food-mart-zvdx.vercel.app/)**
 
@@ -164,59 +186,53 @@ A food and community-based React application with product/recipe functionality a
 
 # 💡 What I Build
 
-```text
-┌─────────────────────────────────────────┐
-│        MODERN WEB APPLICATIONS          │
-├─────────────────────────────────────────┤
-│                                         │
-│  ⚛️ React Applications                  │
-│  🛒 E-Commerce Platforms                │
-│  🎓 Education / LMS Platforms           │
-│  🏋️ Fitness Websites                   │
-│  🍔 Food & Community Applications       │
-│  🔌 REST API Applications               │
-│  🗄️ Laravel + MySQL Backends           │
-│  📱 Responsive Web Experiences          │
-│                                         │
-└─────────────────────────────────────────┘
-```
+<div align="center">
+
+| ⚛️ React Applications  | 🛒 E-Commerce            |
+| ---------------------- | ------------------------ |
+| 🎓 Education Platforms | 🏋️ Fitness Websites     |
+| 🍔 Food Applications   | 🔌 REST API Applications |
+| 🔧 Laravel Backends    | 📱 Responsive Web Apps   |
+
+</div>
 
 ---
 
 # 🎯 Development Focus
 
-* ⚛️ **React.js Development**
-* 🎨 **Modern UI/UX**
-* 📱 **Responsive Web Design**
-* 🛒 **E-Commerce Applications**
-* 🎓 **Education Platforms**
-* 🔌 **REST API Integration**
-* 🗄️ **Database-Driven Applications**
-* 🔧 **Laravel & PHP Development**
-* 🎬 **Interactive Animations**
-* 🧩 **Reusable Component Architecture**
+```text
+⚛️ React.js Development
+        ↓
+🎨 Modern UI/UX
+        ↓
+📱 Responsive Web Design
+        ↓
+🔌 REST API Integration
+        ↓
+🛒 E-Commerce Applications
+        ↓
+🎓 Education Platforms
+        ↓
+🔧 Laravel & PHP Development
+        ↓
+🗄️ Database Development
+        ↓
+🎬 Interactive Web Animations
+```
 
 ---
 
 # 📚 Currently Learning
 
-```text
-Advanced React.js
-       ↓
-Advanced JavaScript
-       ↓
-Full-Stack Development
-       ↓
-Backend Architecture
-       ↓
-REST API Development
-       ↓
-Laravel
-       ↓
-Database Design
-       ↓
-Modern UI/UX
-```
+* ⚛️ Advanced React.js
+* 🟨 Advanced JavaScript
+* 🔧 Full-Stack Development
+* 🖥️ Backend Architecture
+* 🔌 REST API Development
+* 🛠️ Laravel
+* 🗄️ Database Design
+* 🎨 Modern UI/UX
+* 🧩 Advanced React Patterns
 
 ---
 
@@ -254,7 +270,7 @@ Modern UI/UX
 
 # 🤝 Let's Connect
 
-I'm interested in **web development projects, freelance opportunities, collaborations and full-stack development work**.
+I'm interested in **web development projects, freelance opportunities, collaborations, and full-stack development work**.
 
 <div align="center">
 
@@ -270,6 +286,6 @@ I'm interested in **web development projects, freelance opportunities, collabora
 
 ### 🚀 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code+%7C+Create+%7C+Learn+%7C+Build;Always+Learning+Something+New;Building+The+Web%2C+One+Project+At+A+Time+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Code+%7C+Create+%7C+Learn+%7C+Build;Always+Learning+Something+New;Building+The+Web%2C+One+Project+At+A+Time+%F0%9F%9A%80" />
 
 </div>
