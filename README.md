@@ -1,213 +1,265 @@
 <div align="center">
 
-# Toseef Ajmal
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Front-End+%26+Full-Stack+Developer;React.js+%7C+Laravel+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Turning+Ideas+Into+Interactive+Experiences" />
 
-### Front-End & Full-Stack Web Developer | React.js · Laravel · Tailwind CSS
+<br/>
 
-<p>
-  <a href="https://github.com/toseefajmal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/toseefajmal">
+  <img src="https://komarev.com/ghpvc/?username=toseefajmal&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/toseefajmal?tab=followers">
+  <img src="https://img.shields.io/github/followers/toseefajmal?label=Followers&style=for-the-badge&color=181717" />
+</a>
 
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-I'm a **Front-End & Full-Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
+I'm a **Front-End & Full-Stack Web Developer** passionate about creating modern, responsive and user-friendly web applications.
 
-My primary focus is **React.js, JavaScript, Tailwind CSS, Laravel, PHP, MySQL, and REST APIs**. I enjoy turning ideas into clean, scalable interfaces with reusable components and practical functionality.
+I mainly work with **React.js, JavaScript, Tailwind CSS, Laravel, PHP, MySQL and REST APIs**.
 
-I've worked on real-world applications across different domains, including **fitness, education, e-commerce, food, and community platforms**.
+I enjoy transforming ideas into functional digital experiences using:
 
-My development approach focuses on:
+* ⚛️ Modern React architecture
+* 🎨 Clean and responsive UI/UX
+* 🔌 REST API integration
+* 🧩 Reusable components
+* 🚀 Performance-focused development
+* 📱 Mobile-first responsive layouts
+* 🎬 Smooth UI animations
 
-* Clean and reusable React components
-* Responsive and modern UI/UX
-* REST API integration
-* React Router based application architecture
-* Laravel/PHP backend development
-* Database-driven applications
-* Performance and maintainable code
+I've built projects across multiple domains including **fitness, education, e-commerce, food and community platforms**.
 
-**Open to:** Freelance projects · Web development opportunities · Collaborations
+### 🚀 Open To
 
----
-
-## Core Specialization
-
-* **React.js development** — reusable components, hooks, state management, routing
-* **Modern UI development** — Tailwind CSS, Bootstrap, responsive layouts
-* **Full-stack development** — Laravel, PHP, MySQL, REST APIs
-* **E-commerce applications** — product listings, product details, API integration
-* **Education platforms** — courses, instructors, categories and learning interfaces
-* **API-driven applications** — fetching, displaying and managing external data
-* **Interactive UI** — Framer Motion and modern animations
+**Freelance Projects · Remote Opportunities · Collaborations · Full-Stack Projects**
 
 ---
 
-## Selected Projects
+# 🛠️ Tech Stack
 
-Each project below is a **live deployed application** built to solve a specific frontend or application-development problem.
+<div align="center">
 
-### 🏋️ Gym Website — Fitness Platform
+### Frontend
 
-**Problem:** A gym website needed a modern online presence with an attractive interface for presenting its services, programs and information.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
-**Solution:** Built a responsive fitness website with modern sections, clean layouts and engaging user interfaces designed around the gym experience.
+### Backend & Database
 
-**Stack:** React.js, Tailwind CSS, JavaScript
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 
-**Engineering highlights:**
+### Tools & Technologies
 
-* Responsive fitness-focused UI
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite" />
+
+</div>
+
+---
+
+# ⚡ Core Skills
+
+| Area      | Technologies                        |
+| --------- | ----------------------------------- |
+| Frontend  | React.js, JavaScript, HTML5, CSS3   |
+| Styling   | Tailwind CSS, Bootstrap             |
+| Animation | Framer Motion                       |
+| Routing   | React Router                        |
+| Backend   | PHP, Laravel                        |
+| Database  | MySQL                               |
+| APIs      | REST APIs                           |
+| Tools     | Git, GitHub, VS Code, Postman, Vite |
+
+---
+
+# 🚀 Featured Projects
+
+## 🏋️ Gym Website
+
+A modern and responsive fitness website designed with an attractive interface for presenting gym services, programs and information.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `JavaScript`
+
+**Highlights**
+
+* Responsive fitness UI
+* Modern landing sections
 * Reusable React components
-* Modern Tailwind CSS styling
-* Structured service and program sections
-* Mobile-friendly layouts
+* Tailwind CSS styling
+* Mobile-friendly design
 
-🔗 **[Live Website](https://gym-website-tan-tau.vercel.app/)**
+🔗 **[Live Demo](https://gym-website-tan-tau.vercel.app/)**
 
 ---
 
-### 🎓 EduSphere — Learning Management System
+## 🎓 EduSphere — Learning Management System
 
-**Problem:** An education platform needed a modern frontend experience for presenting courses, instructors, categories and learning content.
+A modern LMS frontend designed for an online education experience with courses, instructors, categories, testimonials and responsive layouts.
 
-**Solution:** Developed a complete LMS-style frontend with dedicated course sections, instructor profiles, categories, testimonials and responsive layouts.
+**Tech Stack**
 
-**Stack:** React.js, Tailwind CSS, React Router, Framer Motion
+`React.js` `Tailwind CSS` `React Router` `Framer Motion`
 
-**Engineering highlights:**
+**Highlights**
 
-* Course listing architecture
+* Course listing system
 * Instructor sections
 * Course categories
-* Responsive dashboard-style layouts
+* Responsive layouts
 * React Router navigation
 * Framer Motion animations
-* Reusable course and instructor components
+* Reusable components
 
-🔗 **[Live Website](https://edu-sphere-4jinci9a6-toseefajmal07-3946s-projects.vercel.app/)**
+🔗 **[Live Demo](https://edu-sphere-4jinci9a6-toseefajmal07-3946s-projects.vercel.app/)**
 
 ---
 
-### 🛒 Vihla Commerce — E-Commerce Platform
+## 🛒 Vihla Commerce — E-Commerce Platform
 
-**Problem:** An e-commerce application required dynamic product presentation and API-driven product functionality.
+A modern e-commerce application featuring dynamic products, API integration, product cards and individual product detail pages.
 
-**Solution:** Built a modern shopping interface with product cards, product listings, API integration and individual product detail pages.
+**Tech Stack**
 
-**Stack:** React.js, Tailwind CSS, REST API, React Router
+`React.js` `Tailwind CSS` `REST API` `React Router`
 
-**Engineering highlights:**
+**Highlights**
 
 * REST API integration
 * Dynamic product rendering
 * Reusable product cards
 * Product detail pages
-* React Router navigation
+* Dynamic routing
 * Responsive shopping interface
-* Component-based architecture
 
-🔗 **[Live Website](https://vihla-commerce.vercel.app/)**
+🔗 **[Live Demo](https://vihla-commerce.vercel.app/)**
 
 ---
 
-### 🍔 FoodMart — Food & Community Platform
+## 🍔 FoodMart — Food & Community Platform
 
-**Problem:** A food-focused application needed functionality for displaying food-related content and allowing users to submit products or recipes.
+A food and community-based React application with product/recipe functionality and a submission system.
 
-**Solution:** Developed a React-based food and community application with product/recipe functionality and browser-based data persistence.
+**Tech Stack**
 
-**Stack:** React.js, Tailwind CSS, JavaScript, LocalStorage
+`React.js` `Tailwind CSS` `JavaScript` `LocalStorage`
 
-**Engineering highlights:**
+**Highlights**
 
-* Product and recipe functionality
+* Product functionality
+* Recipe functionality
 * Submission system
 * Form handling
 * LocalStorage persistence
-* Reusable React components
 * Responsive UI
+* Reusable components
 
-🔗 **[Live Website](https://food-mart-zvdx.vercel.app/)**
-
----
-
-## Technology Stack
-
-### Languages
-
-JavaScript · PHP · HTML5 · CSS3
-
-### Frontend
-
-React.js · Tailwind CSS · Bootstrap · React Router · Framer Motion
-
-### Backend
-
-PHP · Laravel · REST APIs
-
-### Databases
-
-MySQL
-
-### Tools & Development
-
-Git · GitHub · VS Code · Postman · Vite
+🔗 **[Live Demo](https://food-mart-zvdx.vercel.app/)**
 
 ---
 
-## What I Bring
+# 💡 What I Build
 
-* **Modern frontend development** — building responsive React applications with reusable components
-* **Clean UI/UX** — creating interfaces that are simple, modern and easy to use
-* **Real project experience** — applications across fitness, education, e-commerce and food domains
-* **API integration** — connecting React applications with REST APIs
-* **Full-stack foundation** — Laravel, PHP and MySQL development
-* **Responsive development** — layouts optimized for desktop, tablet and mobile
-* **Interactive interfaces** — using Framer Motion for smooth and engaging animations
-* **Problem solving** — converting requirements into functional web applications
-
----
-
-## Currently Learning
-
-* Advanced React.js
-* Advanced JavaScript
-* Full-Stack Development
-* Backend Architecture
-* REST API Development
-* Laravel
-* Database Design
-* Modern UI/UX
-* Advanced React Patterns
+```text
+┌─────────────────────────────────────────┐
+│        MODERN WEB APPLICATIONS          │
+├─────────────────────────────────────────┤
+│                                         │
+│  ⚛️ React Applications                  │
+│  🛒 E-Commerce Platforms                │
+│  🎓 Education / LMS Platforms           │
+│  🏋️ Fitness Websites                   │
+│  🍔 Food & Community Applications       │
+│  🔌 REST API Applications               │
+│  🗄️ Laravel + MySQL Backends           │
+│  📱 Responsive Web Experiences          │
+│                                         │
+└─────────────────────────────────────────┘
+```
 
 ---
 
-## GitHub Activity
+# 🎯 Development Focus
+
+* ⚛️ **React.js Development**
+* 🎨 **Modern UI/UX**
+* 📱 **Responsive Web Design**
+* 🛒 **E-Commerce Applications**
+* 🎓 **Education Platforms**
+* 🔌 **REST API Integration**
+* 🗄️ **Database-Driven Applications**
+* 🔧 **Laravel & PHP Development**
+* 🎬 **Interactive Animations**
+* 🧩 **Reusable Component Architecture**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Advanced React.js
+       ↓
+Advanced JavaScript
+       ↓
+Full-Stack Development
+       ↓
+Backend Architecture
+       ↓
+REST API Development
+       ↓
+Laravel
+       ↓
+Database Design
+       ↓
+Modern UI/UX
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=toseefajmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=toseefajmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseefajmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toseefajmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## Let's Connect
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=toseefajmal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toseefajmal&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 I'm interested in **web development projects, freelance opportunities, collaborations and full-stack development work**.
 
 <div align="center">
 
 <a href="https://github.com/toseefajmal">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -216,8 +268,8 @@ I'm interested in **web development projects, freelance opportunities, collabora
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### 🚀 Thanks for visiting my profile!
 
-**Building modern web experiences with React & Laravel.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Code+%7C+Create+%7C+Learn+%7C+Build;Always+Learning+Something+New;Building+The+Web%2C+One+Project+At+A+Time+%F0%9F%9A%80" />
 
 </div>
